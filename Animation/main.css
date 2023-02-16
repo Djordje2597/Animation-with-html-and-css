@@ -68,17 +68,4 @@ body {
   }
 }
 
-/*@keyframes second-animation {
-  0% {
-    transform: scale(0.5);
-    filter: contrast(0.4);
-  }
-  50% {
-    transform: scale(0.8);
-    filter: contrast(0.4);
-  }
-  100% {
-    transform: scale(1);
-    filter: contrast(0.4);
-  }
-}*/
+
